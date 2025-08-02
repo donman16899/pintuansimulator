@@ -1,4 +1,3 @@
-# pintuansimulator
 from IPython.display import HTML
 
 html_code = """
